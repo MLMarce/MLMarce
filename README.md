@@ -2,7 +2,7 @@
 
 ### Soy Marcelo... Bienvenido a mi perfil de GitHub!!!😊😊😊
 
-# About
+# Sobre Mí
 
 **Full Stack Developer con formación en Arquitectura, Diseño y Urbanismo**
 
