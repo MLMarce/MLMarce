@@ -27,6 +27,6 @@ Esta formación me ha dotado de habilidades únicas en atención al detalle, res
 - **Cooperación y Trabajo en Equipo**: Fuerte habilidad para colaborar efectivamente en equipos multidisciplinarios.
 - **Dedicación y Adaptabilidad**: Compromiso con la mejora continua y la capacidad de adaptarse rápidamente a nuevas tecnologías y metodologías.
 
-**Nivel de Inglés**: B1
+**Nivel de Inglés**: B2
 
 Siempre estoy dispuesto a aprender y mejorar, buscando contribuir de manera significativa a los proyectos en los que participo. Si estás buscando a un desarrollador Full Stack con una perspectiva única y habilidades bien equilibradas, ¡me encantaría conectar contigo!
