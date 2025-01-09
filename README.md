@@ -32,8 +32,6 @@
 ## 📫 Contáctame
 - 📧 **Email**: [marcelodaniellencina@gmail.com](mailto:marcelodaniellencina@gmail.com)
 - 💼 **LinkedIn**:[linkedin.com/in/marcelo-lencina](https://www.linkedin.com/in/mlmarce/))
-- 🌐 **Portafolio**: [marcelo.dev](https://marcelo.dev)
-
 ---
 
 ¡Hablemos y hagamos realidad tus ideas digitales! 🚀
