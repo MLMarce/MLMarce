@@ -1,32 +1,39 @@
-## Hola, Mucho gusto! 👋
 
-### Soy Marcelo... Bienvenido a mi perfil de GitHub!!!😊😊😊
+# 👋 ¡Hola! Soy Marcelo Lencina
 
-# Sobre Mí
+¡Bienvenido a mi perfil de GitHub! Soy **Desarrollador Web Full Stack** con experiencia en **JavaScript** y **TypeScript**. Me apasiona crear soluciones digitales que combinen funcionalidad, estética y eficiencia.
 
-**Full Stack Developer con formación en Arquitectura, Diseño y Urbanismo**
+---
 
-Esta formación me ha dotado de habilidades únicas en atención al detalle, resolución de problemas, trabajo en equipo y toma de decisiones, las cuales aplico eficazmente en el desarrollo de software.
+## 🛠️ Sobre mí
 
-## Habilidades Técnicas y Metodologías
+- 🌐 Trabajo tanto en **Frontend** como en **Backend**, desarrollando aplicaciones completas y escalables.
+- 🎨 Me destaco en el diseño de **interfaces de usuario creativas**, priorizando la **experiencia del usuario (UX)** y siguiendo siempre las **mejores prácticas**.
+- 📚 Estoy en constante aprendizaje, explorando nuevas tecnologías y herramientas que me permitan crecer como profesional.
 
-- **Metodologías Ágiles**: Experiencia en la implementación de Scrum.
-- **Control de Versiones**: Dominio de GIT para la gestión de código y colaboración.
-- **Frameworks CSS**: Experiencia con Tailwind CSS y otros.
-- **Frameworks y Librerías Front-End**: Proficiencia en JavaScript, TypeScript, React, Astro y Next.js.
-- **Frameworks y Tecnologías Back-End**: Experiencia en Node.js, Express, y Nest.js.
+---
 
-## Experiencia Profesional
+## 💼 Tecnologías y habilidades
 
-- **Desarrollo Front-End**: Creación de interfaces de usuario dinámicas y responsivas utilizando JavaScript, TypeScript, React, Astro, Next.js y Tailwind CSS.
-- **Desarrollo Back-End**: Diseño y desarrollo de APIs y servicios con Node.js, JavaScript, TypeScript, Express y Nest.js.
+### **Frontend**
+- **Lenguajes**: JavaScript, TypeScript
+- **Frameworks y bibliotecas**: React, Next.js, Astro
+- **Herramientas**: Redux, TailwindCSS
 
-## Cualidades Personales
+### **Backend**
+- **Lenguajes**: JavaScript, TypeScript
+- **Frameworks**: NestJS, Express
+- **Bases de datos**: PostgreSQL, MongoDB
+- **Otros**: TypeORM, RESTful APIs
 
-- **Actitud Positiva**: Enfoque proactivo y entusiasta hacia los desafíos.
-- **Cooperación y Trabajo en Equipo**: Fuerte habilidad para colaborar efectivamente en equipos multidisciplinarios.
-- **Dedicación y Adaptabilidad**: Compromiso con la mejora continua y la capacidad de adaptarse rápidamente a nuevas tecnologías y metodologías.
+---
 
-**Nivel de Inglés**: B2
 
-Siempre estoy dispuesto a aprender y mejorar, buscando contribuir de manera significativa a los proyectos en los que participo. Si estás buscando a un desarrollador Full Stack con una perspectiva única y habilidades bien equilibradas, ¡me encantaría conectar contigo!
+## 📫 Contáctame
+- 📧 **Email**: [marcelodaniellencina@gmail.com](mailto:marcelodaniellencina@gmail.com)
+- 💼 **LinkedIn**:[linkedin.com/in/marcelo-lencina](https://www.linkedin.com/in/mlmarce/))
+- 🌐 **Portafolio**: [marcelo.dev](https://marcelo.dev)
+
+---
+
+¡Hablemos y hagamos realidad tus ideas digitales! 🚀
